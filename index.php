@@ -1,3 +1,10 @@
+<?php
+
+session_start();
+
+require 'concexao.php';
+
+?>
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
